@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="left">Eae, traquilo? <img src="https://media.tenor.com/_rAgn1VgQdIAAAAi/wave.gif", width = "40", height = "40"></h1>
 
-<!--
-**Darksigue/Darksigue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align"left">
+  <h2 align="left">
+    <ol>
+      <li>📕 Sempre buscando aprender cada vez mais;</li> 
+      <li>💻 Estudando para Back-end;</li>
+      <li>🧨 Adoro desafios;</li>
+      <li>✨ Atualmente estudando Node.js e Python.</li>
+    </ol>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  </h2>
+</div>
+
+###
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F416610%2Fscreenshots%2F4801105%2Fcoding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif&f=1&nofb=1&ipt=8ace6b521a6c0b678ed9af1b3e69418cd962f9619dfdca86dbb50cd9ca1cf967&ipo=images">
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<div align="center">
+  
+  <a href="https://www.instagram.com/joao_sigue/">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
+  </a>
+  
+  <a href="https://discord.com/users/303465890098184192">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/joao-sigue/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+  </a>
+    
+</div>
