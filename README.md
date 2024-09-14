@@ -1,22 +1,24 @@
-<h1 align="left">Eae, traquilo? <img src="https://media.tenor.com/_rAgn1VgQdIAAAAi/wave.gif", width = "40", height = "40"></h1>
+###
+
+<h1 align="left">Olá, seja bem-vindo ao meu GitHub! <img src="https://media.tenor.com/_rAgn1VgQdIAAAAi/wave.gif", width = "40", height = "40"></h1>
 
 ###
 
-<div align"left">
+<div align="left">
   <h2 align="left">
     <ol>
-      <li>📕 Sempre buscando aprender cada vez mais;</li> 
-      <li>💻 Estudando para Back-end;</li>
-      <li>🧨 Adoro desafios;</li>
-      <li>✨ Atualmente estudando Node.js e Python.</li>
+      <li>📕 Sempre aprimorando meus conhecimentos;</li> 
+      <li>💻 Focado em desenvolvimento Back-end;</li>
+      <li>🧨 Apaixonado por desafios;</li>
+      <li>✨ Estudando Node.js e Python com interesse em desenvolvimento de APIs.</li>
     </ol>
-
   </h2>
 </div>
 
+
 ###
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F416610%2Fscreenshots%2F4801105%2Fcoding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif&f=1&nofb=1&ipt=8ace6b521a6c0b678ed9af1b3e69418cd962f9619dfdca86dbb50cd9ca1cf967&ipo=images">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F416610%2Fscreenshots%2F4801105%2Fcoding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif&f=1&nofb=1&ipt=8ace6b521a6c0b678ed9af1b3e69418cd962f9619dfdca86dbb50cd9ca1cf967&ipo=images" >
 
 ###
 
@@ -34,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
 </div>
 
