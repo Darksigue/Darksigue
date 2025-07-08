@@ -1,60 +1,76 @@
-###
-
-<h1 align="left">Olá, seja bem-vindo ao meu GitHub! <img src="https://media.tenor.com/_rAgn1VgQdIAAAAi/wave.gif", width = "40", height = "40"></h1>
-
-###
-
-<div align="left">
-  <h2 align="left">
-    <ol>
-      <li>📕 Sempre aprimorando meus conhecimentos;</li> 
-      <li>💻 Focado em desenvolvimento Back-end;</li>
-      <li>🧨 Apaixonado por desafios;</li>
-      <li>✨ Estudando Node.js e Python com interesse em desenvolvimento de APIs.</li>
-    </ol>
-  </h2>
-</div>
-
-
-###
-
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F416610%2Fscreenshots%2F4801105%2Fcoding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif&f=1&nofb=1&ipt=8ace6b521a6c0b678ed9af1b3e69418cd962f9619dfdca86dbb50cd9ca1cf967&ipo=images" >
-
-###
+<h1 align="center">Hi 👋, I'm João Paulo Akira Sigue</h1>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
+
+  <p align="left">
+    <h3>Constantly learning new things 📈📋🚀</h3>
+    <ul>
+      <li>🌱 I’m currently learning <strong>Spring Boot</strong></li>
+      <li>👨‍💻 All of my projects are available at <a href="https://github.com/Darksigue?tab=repositories">GitHub</a></li>
+      <li>💬 Ask me about <strong>Typescript, JavaScript, Java</strong></li>
+      <li>📫 How to reach me: <strong>joaopsigue7@gmail.com</strong></li>
+    </ul>
+  </p>
 </div>
 
-###
+---
 
-<div align="center">
-  
-  <a href="https://www.instagram.com/joao_sigue/">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=darksigue&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
   </a>
-  
-  <a href="https://discord.com/users/303465890098184192">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/>
+</p>
+
+---
+
+### 🌐 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/joao-sigue" target="_blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://fb.com/joaopsigue" target="_blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/joaopsigue" target="_blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" />
   </a>
-  
-  <a href="https://www.linkedin.com/in/joao-sigue/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
-  </a>
-    
-</div>
+</p>
+
+---
+
+### 🧰 Languages and Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darksigue&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darksigue&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darksigue&theme=tokyonight" alt="GitHub Streak" />
+</p>
